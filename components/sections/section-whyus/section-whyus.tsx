@@ -92,7 +92,7 @@ export default function SectionWhyus() {
                             Full-Stack <br /> Solutions
                         </h3>
                         <p className='section-whyus__bullets-text'>
-                            I'm a passionate AI/ML student and full-stack developer with expertise in React, Next.js, Node.js, and JavaScript. I love building intelligent applications that solve real-world problems and bridge the gap between cutting-edge technology and practical solutions.
+                            I&apos;m a passionate AI/ML student and full-stack developer with expertise in React, Next.js, Node.js, and JavaScript. I love building intelligent applications that solve real-world problems and bridge the gap between cutting-edge technology and practical solutions.
                         </p>
                     </div>
                 </div>

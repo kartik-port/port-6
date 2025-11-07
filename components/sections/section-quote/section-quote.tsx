@@ -15,7 +15,7 @@ export default function SectionQuote() {
                 <ul className='section-quote__list'>
                     <li className='section-quote-item'>
                         <q className='section-quote-quote-text'>
-                            I'm an AI/ML student passionate about building intelligent web applications that solve real-world problems. My projects combine modern web technologies with artificial intelligence to create innovative solutions.
+                            I&apos;m an AI/ML student passionate about building intelligent web applications that solve real-world problems. My projects combine modern web technologies with artificial intelligence to create innovative solutions.
                         </q>
                         <div className='section-quote__person'>
                             <div className='section-quote__person-image'>
